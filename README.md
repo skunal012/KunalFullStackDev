@@ -7,7 +7,7 @@
 # 👨‍💻 Kunal
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=1200&lines=Certified+Professional+Scrum+Developer+(PSD)+%26+Experienced+Full-Stack+Developer;.NET+Core,+React,+Building+Solutions+for+the+Glass+Industry;Dubai,+United+Arab+Emirates" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&lines=Certified+Professional+Scrum+Developer+(PSD);Full-Stack+Developer+(.NET+Core+%7C+ASP.NET+Core+%7C+React);Dubai,+United+Arab+Emirates" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,21 +21,21 @@
 
 ## 🚀 About Me
 
-- 🔭 I am a Professional Scrum Developer and an experienced Full-Stack Software Developer with over 5 years of expertise in building scalable backend systems and dynamic frontends
-- 🌱 Proficient in **.NET Core, React.js, and modern design principles** to deliver clean, maintainable, and efficient solutions
-- 💬 Passionate about simplifying complex challenges, thriving in agile environments, and collaborating to transform ideas into impactful software
+- 🔭 Full-Stack Developer with 5+ years of experience in scalable backend and frontend systems
+- 🌱 Core stack: **C#, .NET Core, ASP.NET Core, React.js, and TypeScript**
+- 💬 Focused on clean architecture, maintainable code, and Agile delivery
+- 🤝 Open to **freelance projects** and **remote roles**
+- 🚀 Available to build APIs, web apps, and full-stack business solutions
 - 📧 Reach me at: **skunal012@gmail.com**
-- 📱 Call me at: **+91 90150 62543**
 - 🌐 Based in **Dubai, United Arab Emirates**
 
 <h2 align="center">🛠️ Tech Stack</h2>
 <p>
   <i>
-    Development Expertise:
-    Backend Development: Architect and implement scalable microservices and APIs using C#, .NET Core, ASP.NET Core, and GraphQL.
-    Frontend Development: Develop modern, responsive user interfaces with React, Redux, and TypeScript.
-    Database Management: Design and optimize relational and non-relational databases, including MS SQL Server, PostgreSQL, and MongoDB.
-    DevOps Practices: Automate builds, testing, and deployments with CI/CD pipelines using Azure DevOps, GitHub Actions, and Jenkins.
+    Backend: C#, .NET Core, ASP.NET Core, GraphQL.
+    Frontend: React, Redux, TypeScript.
+    Databases: MS SQL Server, PostgreSQL, MongoDB.
+    DevOps: Azure DevOps, GitHub Actions, Jenkins.
   </i>
 </p>
 
@@ -43,7 +43,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=950&lines=Backend+Development+%7C+Frontend+Development+%7C+DevOps;C%23+%7C+.NET+Core+%7C+ASP.NET+Core+%7C+React+%7C+GraphQL;SOLID+%7C+DDD+%7C+DRY+%7C+KISS+%7C+YAGNI" alt="Typing Animation" />
 </p>
 <p align="center">
-  <i>Core technologies and practices from profile.json:</i>
+  <i>Core technologies I use regularly:</i>
 </p>
 
 <div align="center">
@@ -120,17 +120,21 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skunal012&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=skunal012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="github stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=skunal012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="github stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skunal012&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="top languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=skunal012&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="top languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skunal012&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="activity graph"/>
 </div>
 
 ## 🔥 Recent Projects
 
 <div align="center">
-  <i>No projects are listed in <code>profile.json</code> yet.</i>
+  <i>Projects will be added soon.</i>
 </div>
 
 ## 📧 Let's Connect
