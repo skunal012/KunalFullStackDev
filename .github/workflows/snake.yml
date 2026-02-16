@@ -25,6 +25,25 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=dark&color_snake=%23a855f7&color_dots=%23161b22,%23006d32,%2326a641,%2339d353,%23ebedf0
             dist/github-contribution-grid-snake-dark.gif?palette=dark&color_snake=%23a855f7&color_dots=%23161b22,%23006d32,%2326a641,%2339d353,%23ebedf0
 
+      - name: Sync output folder to main
+        run: |
+          mkdir -p output
+          cp dist/github-contribution-grid-snake.svg output/
+          cp dist/github-contribution-grid-snake.gif output/
+          cp dist/github-contribution-grid-snake-dark.svg output/
+          cp dist/github-contribution-grid-snake-dark.gif output/
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/github-contribution-grid-snake.svg output/github-contribution-grid-snake.gif output/github-contribution-grid-snake-dark.svg output/github-contribution-grid-snake-dark.gif
+
+          if git diff --cached --quiet; then
+            echo "No snake asset changes for main."
+          else
+            git commit -m "chore: update snake assets"
+            git push origin HEAD:main
+          fi
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

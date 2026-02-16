@@ -1,7 +1,7 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/08/86/49/54/360_F_886495498_14NHE9pzw6B7SGoU5Sxb4leA8gpXYDpz.jpg)](https://github.com/skunal012)
 
 <div align="center" style="background: transparent;">
-  <img style="background: transparent;" src="https://raw.githubusercontent.com/skunal012/KunalFullStackDev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img style="background: transparent;" src="./output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 # 👨‍💻 Kunal
